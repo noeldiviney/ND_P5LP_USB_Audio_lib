@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Components">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\Header Files</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\Source Files</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\Header Files</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\Source Files</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib">
+<ExpandedNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\API</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\API\PDM_CIC.c</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\API\PDM_CIC.h</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\PDM_CIC_v2_0.cysch</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\PDM_CIC_v2_0.cysym</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Comb_v1_0</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Comb_v1_0\PDM_Comb_v1_0.cysym</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Comb_v1_0\PDM_Comb_v1_0.v</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Integrator_v1_0</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.cysym</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.v</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\API</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\API\PDM_CIC.c</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\API\PDM_CIC.h</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\PDM_CIC_v2_0.cysch</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_CIC_v2_0\PDM_CIC_v2_0.cysym</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Comb_v1_0</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Comb_v1_0\PDM_Comb_v1_0.cysym</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Comb_v1_0\PDM_Comb_v1_0.v</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Integrator_v1_0</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.cysym</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.v</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+<v>ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ND_P5LP_USB_Audio_lib</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\ND_P5LP_USB_Audio_lib.cylib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.cysym" />
+<name v=".\ND_P5LP_USB_Audio_lib.cylib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.v" />
+<name v=".\ND_P5LP_USB_Audio_lib.cylib\PDM_CIC_v2_0\PDM_CIC_v2_0.cysym" />
+<name v=".\ND_P5LP_USB_Audio_lib.cylib\PDM_Comb_v1_0\PDM_Comb_v1_0.cysym" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1541, 761" SelectedTabbedMdiWindow="1d10c496-3877-47f2-9cc2-f4fe1dc0af7d"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib.cylib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.cysym" Guid="1d10c496-3877-47f2-9cc2-f4fe1dc0af7d" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib.cylib\PDM_Integrator_v1_0\PDM_Integrator_v1_0.v" Guid="50b2ea58-288e-4f42-8905-58c97261e079" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib.cylib\PDM_CIC_v2_0\PDM_CIC_v2_0.cysym" Guid="2b813b7f-8cb7-4eca-a8b0-90806ae2fff1" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_USB_Audio_lib\ND_P5LP_USB_Audio_lib.cylib\PDM_Comb_v1_0\PDM_Comb_v1_0.cysym" Guid="ad91e552-569f-4af9-a3a2-ec89e31f4747" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
